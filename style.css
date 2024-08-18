@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul li{
+    list-style-type: none;
+    float: left;
+    border-right:1px solid lightblue;
+    transition: all 0.2s linear;
+}
+ul li:last-child{
+    border: none;
+}
+ul li a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    transform: skew(25deg);
+}
+ul{
+    margin-left: 40%;
+    margin-top: 25%;
+    background-color: aquamarine;
+    display: inline-block;
+    transform: skew(-25deg);
+    border-radius: 5px;
+}
+ul li:hover{
+    background-color: teal;
+}
+ul li a:hover{
+    color: white;
+}
