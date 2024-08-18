@@ -23,7 +23,7 @@ To use this navbar design in your project:
 
 1. 📥 **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dinesh-fullstackwebdeveloper/navbar-design.git
    ```
 2. 🌐 **Open the `index.html` file** in your preferred browser to see the navbar in action.
 3. 🎨 **Customize the styles** by editing the `style.css` file to fit your needs.
